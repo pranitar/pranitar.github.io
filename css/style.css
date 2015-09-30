@@ -1,0 +1,10 @@
+.circle {
+    width: 45%;
+    height: 45%;
+    /*border-radius: 60%;*/
+    /*background-image: url('http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ski_trail_rating_symbol-blue_square.svg/600px-Ski_trail_rating_symbol-blue_square.svg.png');
+    background-size: contain; */  
+}
+.verticaldivide{
+	border-right: 1px solid #333;
+}
