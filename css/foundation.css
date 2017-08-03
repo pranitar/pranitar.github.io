@@ -30,7 +30,9 @@ html, body {
 *,
 *:before,
 *:after {
-  background-color: #E8F1FA;
+  /*background-color: #E8F1FA;*/
+  /*background-color: white;*/
+  /*background-color: #F5A7A7;*/
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
@@ -1862,7 +1864,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.125rem; 
-  font-family: 'Pacifico', cursive;
   }
 
 h2 {
@@ -2387,17 +2388,6 @@ kbd {
 }
 #home #intro{
   font-size: 2.0em;
-}
-#navbg{
-  /*background-color: #ffdeb8;*/
-  /*background-color: Coral;*/
-}
-#titlehead{
-  background-color: #F1F2F4;
-  line-height: 150%;
-  font-family: 'Pacifico', cursive;
-  text-align:center;
-  font-size: 1.75em;
 }
 h2 a{
   font-size: 1.1em;
